@@ -11,7 +11,7 @@
   <BuiltInFunctionCasing>Lowercase</BuiltInFunctionCasing>
   <CaseEndAlignment>ToCase</CaseEndAlignment>
   <CaseExpressionAlignment>Tabbed</CaseExpressionAlignment>
-  <CaseWhenElseAlignment>ToCase</CaseWhenElseAlignment>
+  <CaseWhenElseAlignment>Tabbed</CaseWhenElseAlignment>
   <ClauseAlignment>ToStatement</ClauseAlignment>
   <ClauseIndentation>0</ClauseIndentation>
   <ClosingParenthesisAlignment>ToOpeningBracket</ClosingParenthesisAlignment>
@@ -91,9 +91,9 @@
   <ParenthesisedExpressionBreakType>Never</ParenthesisedExpressionBreakType>
   <PlaceBeginOnNewLine>false</PlaceBeginOnNewLine>
   <PlaceCaseElseOnNewLine>true</PlaceCaseElseOnNewLine>
-  <PlaceCaseEndOnNewLine>false</PlaceCaseEndOnNewLine>
+  <PlaceCaseEndOnNewLine>true</PlaceCaseEndOnNewLine>
   <PlaceCaseExpressionOnNewLine>false</PlaceCaseExpressionOnNewLine>
-  <PlaceCaseFirstWhenOnNewLine>Never</PlaceCaseFirstWhenOnNewLine>
+  <PlaceCaseFirstWhenOnNewLine>Always</PlaceCaseFirstWhenOnNewLine>
   <PlaceClosingParenthesisOnNewLine>false</PlaceClosingParenthesisOnNewLine>
   <PlaceCommasBeforeListItems>true</PlaceCommasBeforeListItems>
   <PlaceJoinOnKeywordOnANewLine>false</PlaceJoinOnKeywordOnANewLine>
@@ -105,7 +105,7 @@
   <PreferBreakBeforeCteName>false</PreferBreakBeforeCteName>
   <PreferBreakBeforeEquals>true</PreferBreakBeforeEquals>
   <PreferBreakBeforeInsertTable>false</PreferBreakBeforeInsertTable>
-  <PreferBreakBeforeThenKeyword>false</PreferBreakBeforeThenKeyword>
+  <PreferBreakBeforeThenKeyword>true</PreferBreakBeforeThenKeyword>
   <PreserveLineSpacingBetweenStatements>true</PreserveLineSpacingBetweenStatements>
   <PreserveLineSpacingWithinStatements>true</PreserveLineSpacingWithinStatements>
   <ReservedKeywordsCasing>LowerCamelCase</ReservedKeywordsCasing>
